@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Jonas Ferutcci Maciel",
+    "age": 1993,
+    "role": "Software Engineer",
+    "Languages": "Front-End (HTML, CSS, JavaScript, Bootstrap, Vue.js, React.js), Back-End (PHP, Python, Node) Database(MySQL, PostgreSQL)",
+    "email": "jonas.ferutcci@gmail.com",
+    "phone": "908-267-4697",
+    "location": "Broadway Street, New York, NY 10031, USA",
+    "about_me": "Graduated in information technology management from Anhembi Morumbi University,in the capital city of Sao Paulo, Brazil, and currently completing a new academic training in computer sciences at Borough of Manhattan college with more than 5 years of professional experience in diverse sectors, I have strong knowledge in development and improvement."
+  },
+  {
+    "University": "Anhembi Morumbi University",
+    "university_degree": "Information Technology Management",
+    "location": "Street. Casa do Ator, 294 - Vila Olímpia, São Paulo - SP, 04546-001, Brasil",
+    "teste" : "teste"
+  }
+]
