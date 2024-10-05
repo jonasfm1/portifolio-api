@@ -20,4 +20,11 @@ def company():
         return data
 
 
+@app.route('/education')
+def company():
+    personal_info = os.path.join('pages/education/education.json')
+    with open(personal_info) as info:
+        data = json.load(info)
+        return data
+
 app.run(debug=True)

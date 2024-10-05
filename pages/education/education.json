@@ -1,0 +1,19 @@
+{
+  "Education":[
+    {
+      "School": "E.E.Francisco de Paula Conceição Junior Prof.",
+      "School_degree": "High school",
+      "location": "Rua. Domingos Sequeira, 40A - Jardim Mitsutani, São Paulo - SP, 05791-050, Brazil"
+    },
+    {
+      "School": "Cultura inglesa",
+      "School_degree": "English language",
+      "location": "Estr. do Campo Limpo, 2690 - Vila Prel, São Paulo - SP, 05777-000, Brazil"
+    },
+    {
+      "School": "Anhembi Morumbi University",
+      "School_degree": "Information Technology Management",
+      "location": "Rua. Casa do Ator, 294 - Vila Olímpia, São Paulo - SP, 04546-001, Brasil"
+    }
+  ]
+}
