@@ -4,18 +4,18 @@
     "role": "Software Engineer",
     "email": "jonas.ferutcci@gmail.com",
     "phone": "908-267-4697",
-    "age": 1993,
-    "location": "Broadway Street, New York, NY 10031, USA",
+    "birthday": "January 24, 1993",
+    "location": "Broadway, New York, NY 10031, USA",
     "social_Networks":[
-      {"linkedin": "https://www.linkedin.com/in/jonas-software-engineer/"},
-      {"github": "https://github.com/jonasfm1"}
+      "https://www.linkedin.com/in/jonas-software-engineer/",
+      "https://github.com/jonasfm1"
     ],
     "Languages": "Front-End (HTML, CSS, JavaScript, Bootstrap, Vue.js, React.js), Back-End (PHP, Python, Node) Database(MySQL, PostgreSQL)",
     "About_me": "Graduated in information technology management from Anhembi Morumbi University,in the capital city of Sao Paulo, Brazil, and currently completing a new academic training in computer sciences at Borough of Manhattan college with more than 5 years of professional experience in diverse sectors, I have strong knowledge in development and improvement.",
     "Work_on":[
-      {"Front-end": "High-quality development of interactive interfaces at the professional level."},
-      {"Back-end": "Development of professional-level business rules with good programming practices"},
-      {"Web_Developer": "Professional development of interfaces, business rules and relational databases"}
+      "High-quality development of interactive interfaces at the professional level.",
+      "Development of professional-level business rules with good programming practices",
+      "Professional development of interfaces, business rules and relational databases"
     ],
     "Testimonial": [
       {
