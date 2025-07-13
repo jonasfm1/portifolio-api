@@ -1,6 +1,6 @@
+import os
 from flask import Flask, jsonify, json
 from flask_cors import CORS, cross_origin
-import os
 
 app = Flask(__name__)
 cors = CORS(app)
