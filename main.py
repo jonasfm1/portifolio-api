@@ -29,4 +29,4 @@ def education():
         data = json.load(info)
         return data
 
-app.run(debug=True)
+app.run(debug=False)
