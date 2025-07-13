@@ -3,38 +3,55 @@
     "name": "Jonas Maciel",
     "role": "Software Engineer",
     "email": "jonas.ferutcci@gmail.com",
-    "phone": "908-267-4697",
-    "birthday": "January 24, 1993",
-    "location": "Broadway, New York, NY 10031, USA",
-    "social_Networks":[
+    "phone": "+1 (908)-26X-XXXX",
+    "birthday": "January, 1993",
+    "location": "New York, NY, USA",
+    "social_Networks": [
       "https://www.linkedin.com/in/jonas-software-engineer/",
       "https://github.com/jonasfm1"
     ],
-    "Languages": "Front-End (HTML, CSS, JavaScript, Bootstrap, Vue.js, React.js), Back-End (PHP, Python, Node) Database(MySQL, PostgreSQL)",
     "About_me": "Graduated in information technology management from Anhembi Morumbi University,in the capital city of Sao Paulo, Brazil, and currently completing a new academic training in computer sciences at Borough of Manhattan college with more than 5 years of professional experience in diverse sectors, I have strong knowledge in development and improvement.",
-    "Work_on":[
-      "High-quality development of interactive interfaces at the professional level.",
-      "Development of professional-level business rules with good programming practices",
-      "Professional development of interfaces, business rules and relational databases"
+    "Web_Skill": [
+      {
+        "id": "Frontend-1",
+        "role": "Frontend",
+        "imagen": "/_nuxt/assets/img/frontendIcon.png",
+        "content": "High-quality development of interactive interfaces at the professional level."
+      },
+      {
+        "id": "Backend-2",
+        "role": "Backend",
+        "imagen": "/_nuxt/assets/img/backendIcon.png",
+        "content": "Development of professional-level business rules with good programming practices."
+      },
+      {
+        "id": "Web-3",
+        "role": "Web Developer",
+        "imagen": "/_nuxt/assets/img/fullstackIcon.png",
+        "content": "Professional development of interfaces, business rules and relational databases."
+      }
     ],
     "Testimonial": [
       {
-        "Nome": "Fernando",
+        "Name": "Rafael Rocha",
+        "Imagen": "https://portifolio-chi-two-19.vercel.app/rocha.jpeg",
+        "Company": "Cloudfox",
+        "Site": "https://cloudfox.net/",
+        "Testimonial": "I had the opportunity to work with Jonas at Cloudfox for 1 year, an organization focused on the online payments sector. During this period, Jonas performed tasks related to specific activities such as interface development, API integration, and code optimization. As his direct supervisor, he often consulted me on technical and strategic decisions, demonstrating maturity by seeking guidance and feedback to improve his work.\n\nJonas is an extremely dedicated, responsible, and collaborative individual. His commitment to delivering quality work, combined with his professional ethics, has always been evident. He possesses outstanding qualities such as teamwork, a constant pursuit of learning, and attention to code quality, which make him a reliable and valuable professional. During the time I worked with him at Cloudfox, I observed his growth as a professional as well as his humility in asking questions, learning, and sharing knowledge with colleagues. This reflects his character and willingness to contribute to the team’s success.\n\nAs a developer, I believe Jonas's main strengths lie in his technical skills and adaptability. He has excellent front-end development expertise, with solid knowledge of JavaScript, HTML, CSS, and frameworks like Bootstrap, Vue, and React, enabling him to build efficient and user-friendly interfaces. Furthermore, Jonas is also capable of working on the back end, with familiarity in technologies such as PHP and Python, as well as their respective frameworks, which expands his range of skills and makes him a versatile professional.\n\nWhat truly sets Jonas apart is his attention to detail and focus on clean code, practices that ensure the quality and maintainability of the projects he works on. His proactive attitude, combined with his ability to solve problems and learn quickly, makes him a developer who adds value to any team.\n\nAs his former senior colleague, I recommend Jonas as a Developer without hesitation. His strengths include:\n\nTechnical excellence in front-end development, with the ability to transition to back-end tasks;\nProactivity and teamwork, always willing to help and learn from others;\nOrganization and attention to quality, reflected in his deliveries and care for clean code.\nRegarding areas for improvement, I believe Jonas has room to grow in aspects related to system architecture and more complex algorithms. However, it is important to highlight that, during the time I worked with him, I witnessed his continuous evolution and his effort to overcome challenges.\n\nFor all these reasons, I believe Jonas will be a highly valuable professional for any development team fortunate enough to have him."
+      },
+      {
+        "Name": "Anderson Brasilino",
+        "Imagen": "https://portifolio-chi-two-19.vercel.app/brlino.jpeg",
+        "Company": "Nanx",
+        "Site": "https://www.nanxtec.com.br",
+        "Testimonial": "Jonas is an extremely dedicated and committed individual who always strives to deliver the best possible work. With a proactive and determined approach, he stands out for his teamwork skills, clean code practices, and constant pursuit of learning. I had the opportunity to witness his growth during the time we worked together at Company Nanx. Beyond being an excellent professional, Jonas demonstrated humility by asking questions, learning, and sharing his knowledge with colleagues.\n\nJonas as a Developer\nAs a developer, Jonas possesses several strengths that bring significant value to any team. He particularly excels in Front-End development, mastering technologies such as JavaScript, HTML, CSS, and Bootstrap. Additionally, he has the versatility to work on the Back-End, using PHP and Python, which broadens his technical skill set. Another admirable quality is his ability to solve problems creatively and efficiently, always focusing on delivering quality work.\n\nRecommendation\nAs his former supervisor, I highly recommend Jonas as a developer and highlight his main qualities: his expertise in Front-End technologies, his teamwork abilities, and his continuous learning mindset. He is a valuable professional. Without a doubt, Jonas would be a great asset to any company."
+      },
+      {
+        "Name": "Fernando Carvalho",
+        "Imagen": "public/brlino.jpeg",
         "Company": "rccaddesign",
         "Site": "http://rccaddesign.com/",
-        "Testimonial": ""
-      },
-      {
-        "Nome": "Henrique",
-        "Company": "CloudFox",
-        "Site": "out of the air",
-        "Testimonial": ""
-      },
-      {
-        "Nome": "Rafael",
-        "Company": "kirvano",
-        "Site": "https://www.kirvano.com/",
-        "Testimonial": ""
+        "Testimonial": "Professional Relationship\nWe worked together at CADDesign for approximately 5 years, a company specialized in SAAS solutions for logistics, with a focus on routing and real-time order monitoring.\nJonas worked directly on the development team, especially focusing on front-end interfaces and integration with systems operated by drivers via app. As his direct supervisor, he often consulted me on technical decisions, UX and integration with legacy systems.\n\nJonas – The Person\nJonas is a collaborative, curious and committed person.\nAlways willing to learn and contribute, he is one of those professionals who add value to the work environment not only through his code, but also through his attitude. His humble demeanor when asking questions, accepting criticism and sharing knowledge makes him a valuable asset to any team.\nDuring our time together, I was able to follow his technical and personal development, as well as notice his continuous effort to improve himself.\n \nJonas – The Developer\nAs a developer, Jonas has clear strengths: attention to detail, writing clean code and focusing on usability.\nHis specialty is front-end, with mastery of technologies such as JavaScript, HTML, CSS and Bootstrap. Even so, he also stands out for his versatility: he has a good understanding of backend with PHP, which allows him to navigate between demands of different natures with confidence.\nHis difference lies in the combination of curiosity, discipline and delivery capacity — always seeking to understand the why of solutions, and not just the how."
       }
     ]
   }
