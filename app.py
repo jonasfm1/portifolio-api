@@ -13,10 +13,10 @@ def index():
         data = json.load(info)
         return data
 
-@app.route('/companys')
+@app.route('/companies')
 @cross_origin()
 def company():
-    personal_info = os.path.join('pages/companys/companys_names.json')
+    personal_info = os.path.join('pages/companies/companies_names.json')
     with open(personal_info) as info:
         data = json.load(info)
         return data
