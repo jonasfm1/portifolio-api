@@ -4,19 +4,21 @@
     "role": "Software Engineer",
     "email": "jonas.ferutcci@gmail.com",
     "phone": "+1 (908)-26X-XXXX",
-    "birthday": "January, 1993",
+    "birthday": "January 1993",
     "location": "New York, NY, USA",
     "social_Networks": [
       "https://www.linkedin.com/in/jonas-software-engineer/",
       "https://github.com/jonasfm1"
     ],
-    "About_me": "Graduated in information technology management from Anhembi Morumbi University,in the capital city of Sao Paulo, Brazil, and currently completing a new academic training in computer sciences at Borough of Manhattan college with more than 5 years of professional experience in diverse sectors, I have strong knowledge in development and improvement.",
+    "About_me": "Graduated in information technology management from Anhembi Morumbi University in the capital city of Sao Paulo, Brazil. Currently completing a new academic training in computer sciences at Borough of Manhattan college. More than 6 years of professional experience in diverse sectors, I have strong knowledge in development and improvement",
+
     "Web_Skill": [
       {
         "id": "Frontend-1",
         "role": "Frontend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/frontendIcon.png",
-        "content": "High-quality development of interactive interfaces at the professional level."
+        "content": "High-quality development of interactive interfaces at the professional level.",
+        "frontend": ["html", "css", "js", "jquery", "bootstrap", "Vue.js"]
       },
       {
         "id": "Backend-2",
