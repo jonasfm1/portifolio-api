@@ -1,22 +1,22 @@
 [
   {
     "Company_name": "Cadd Design",
-    "Company_image": "pages/public/imgs/Cadd.png",
+    "Company_image": "https://portifolio-chi-two-19.vercel.app/imgs/Cadd.png",
     "activities": "2 years as a Full-stack software engineer, working with HTML, CSS, JavaScript, Bootstrap at Front-end stacks and PHP with MySQL at Back-end Stack, Together with the director and in accordance with various meetings held with the most diverse companies, new features were added, errors were corrected, and design adjustments were made, increasingly creating a more customer-friendly environment."
   },
   {
     "Company_name": "Digital Banks",
-    "Company_image": "pages/public/imgs/Digital_banks.jpeg",
+    "Company_image": "https://portifolio-chi-two-19.vercel.app/imgs/Digital_banks.jpeg",
     "activities":  "4 Months as a Back-end software engineer working with django a framework Python. In union with my teammates, we developed simple functionalities for the evolution of the system, working with the SCRUM methodology we had the opportunity to develop with Pyhton and a new methodology, as well as code review in a dynamic and professional environment in the financial sector."
   },
   {
     "Company_name": "CloudFox",
-    "Company_image": "pages/public/imgs/Cloudfox.png",
+    "Company_image": "https://portifolio-chi-two-19.vercel.app/imgs/Cloudfox.png",
     "activities": "2 Years as a Front-end software engineer working with HTML, CSS, JavaScript, Bootstrap, library jQuery and Framework Laravel. Being part of the best team I have ever worked with, we greatly improved the system with solid technologies on the market such as PHP-Laravel, and also jQuery, with KABAN methodology and a highly dynamic team."
   },
   {
     "Company_name": "PerfectPay",
-    "Company_image": "pages/public/imgs/PerfectPay.png",
+    "Company_image": "https://portifolio-chi-two-19.vercel.app/imgs/PerfectPay.png",
     "activities": "1 year as Front-end software engineer working with HTML, CSS, Vue.js and Bootstrap. At perfect pay, together with a team of new developers, we worked on the development of a new platform launched on the market in 2023 in the adult entertainment sector in Brazil, MyFanVip is currently operating, it was a project that challenged my skills in a timely manner delivery and Front-end knowledge."
   }
 ]
