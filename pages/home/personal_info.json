@@ -18,13 +18,29 @@
         "role": "Frontend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/frontendIcon.png",
         "content": "High-quality development of interactive interfaces at the professional level.",
-        "frontend": ["html", "css", "js", "jquery", "bootstrap", "Vue.js"]
+        "frontend": [
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/html.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/css.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/javascript.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/jquery.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/bootstrap.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/vuejs.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/nuxt-js.png"
+        ]
       },
       {
         "id": "Backend-2",
         "role": "Backend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/backendIcon.png",
-        "content": "Development of professional-level business rules with good programming practices."
+        "content": "Development of professional-level business rules with good programming practices.",
+        "backend": [
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/php.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/python.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/django.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/flask.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/mysql.png",
+          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/postgresql.png"
+        ]
       },
       {
         "id": "Web-3",
