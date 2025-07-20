@@ -7,7 +7,7 @@
     "birthday": "January 1993",
     "location": "New York, NY, USA",
     "social_Networks": [
-      "https://www.linkedin.com/in/jonas-software-engineer/",
+      "https://www.sourceedin.com/in/jonas-software-engineer/",
       "https://github.com/jonasfm1"
     ],
     "About_me": "Graduated in information technology management from Anhembi Morumbi University in the capital city of Sao Paulo, Brazil. Currently completing a new academic training in computer sciences at Borough of Manhattan college. More than 6 years of professional experience in diverse sectors, I have strong knowledge in development and improvement",
@@ -19,13 +19,41 @@
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/frontendIcon.png",
         "content": "High-quality development of interactive interfaces at the professional level.",
         "frontend": [
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/html.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/css.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/javascript.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/jquery.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/bootstrap.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/vuejs.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/nuxt-js.png"
+          {
+            "source":"https://developer.mozilla.org/en-US/docs/Web/HTML",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/html.png",
+            "name": "HTML"
+          },
+          {
+            "source": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/css.png",
+            "name": "CSS"
+          },
+          {
+            "source": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/javascript.png",
+            "name": "JavaScript"
+          },
+          {
+            "source": "https://jquery.com/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/jquery.png",
+            "name": "jQuery"
+          },
+          {
+            "source": "https://getbootstrap.com/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/bootstrap.png",
+            "name": "Bootstrap"
+          },
+          {
+            "source": "https://vuejs.org/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/vuejs.png",
+            "name": "Vue"
+          },
+          {
+            "source": "https://nuxt.com/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/nuxt-js.png",
+            "name": "Nuxt"
+          }
         ]
       },
       {
