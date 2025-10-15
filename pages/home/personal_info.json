@@ -17,41 +17,41 @@
         "id": "Frontend-1",
         "role": "Frontend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/frontendIcon.png",
-        "content": "High-quality development of interactive interfaces at the professional level.",
+        "content": "A passionate web developer specializing in frontend technologies. With a strong foundation in HTML, CSS, and JavaScript, I create dynamic and responsive web applications that deliver seamless user experiences.-Versed in utilizing jQuery to enhance interactivity and streamline complex functionalities, allowing for efficient manipulation of the Document Object Model (DOM). Additionally, I leverage Bootstrap to ensure that my designs are not only aesthetically pleasing but also mobile friendly, adhering to the latest industry standards.",
         "frontend": [
           {
             "source":"https://developer.mozilla.org/en-US/docs/Web/HTML",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/html.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/html.png",
             "name": "HTML"
           },
           {
             "source": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/css.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/css.png",
             "name": "CSS"
           },
           {
             "source": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/javascript.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/javascript.png",
             "name": "JavaScript"
           },
           {
             "source": "https://jquery.com/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/jquery.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/jquery.png",
             "name": "jQuery"
           },
           {
             "source": "https://getbootstrap.com/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/bootstrap.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/bootstrap.png",
             "name": "Bootstrap"
           },
           {
             "source": "https://vuejs.org/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/vuejs.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/vuejs.png",
             "name": "Vue"
           },
           {
             "source": "https://nuxt.com/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/nuxt-js.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/nuxt-js.png",
             "name": "Nuxt"
           }
         ]
@@ -62,12 +62,36 @@
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/backendIcon.png",
         "content": "Development of professional-level business rules with good programming practices.",
         "backend": [
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/php.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/python.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/django.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/flask.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/mysql.png",
-          "https://portifolio-chi-two-19.vercel.app/imgs/stacks/postgresql.png"
+          {
+            "source": "https://www.php.net/manual/en/introduction.php",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/php.png",
+            "name": "PHP"
+          },
+          {
+            "source": "https://www.python.org/doc/essays/blurb/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/python.png",
+            "name": "Python"
+          },
+          {
+            "source": "https://www.djangoproject.com/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/django.png",
+            "name": "Django"
+          },
+          {
+            "source": "https://flask.palletsprojects.com/en/stable/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/flask.png",
+            "name": "Flask"
+          },
+          {
+            "source": "https://www.oracle.com/mysql/what-is-mysql/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/mysql.png",
+            "name": "MySQL"
+          },
+          {
+            "source": "https://www.postgresql.org/about/",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/postgresql.png",
+            "name": "PostgreSQL"
+          }
         ]
       },
       {
