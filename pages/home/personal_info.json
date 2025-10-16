@@ -18,7 +18,7 @@
         "role": "Frontend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/frontendIcon.png",
         "content": "A passionate web developer specializing in frontend technologies. With a strong foundation in HTML, CSS, and JavaScript, I create dynamic and responsive web applications that deliver seamless user experiences.-Versed in utilizing jQuery to enhance interactivity and streamline complex functionalities, allowing for efficient manipulation of the Document Object Model (DOM). Additionally, I leverage Bootstrap to ensure that my designs are not only aesthetically pleasing but also mobile friendly, adhering to the latest industry standards.",
-        "frontend": [
+        "dev_role": [
           {
             "source":"https://developer.mozilla.org/en-US/docs/Web/HTML",
             "img": "https://portifolio-chi-two-19.vercel.app/imgs/html.png",
@@ -61,35 +61,35 @@
         "role": "Backend",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/backendIcon.png",
         "content": "Development of professional-level business rules with good programming practices.",
-        "backend": [
+        "dev_role": [
           {
             "source": "https://www.php.net/manual/en/introduction.php",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/php.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/php.png",
             "name": "PHP"
           },
           {
             "source": "https://www.python.org/doc/essays/blurb/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/python.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/python.png",
             "name": "Python"
           },
           {
             "source": "https://www.djangoproject.com/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/django.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/django.png",
             "name": "Django"
           },
           {
             "source": "https://flask.palletsprojects.com/en/stable/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/flask.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/flask.png",
             "name": "Flask"
           },
           {
             "source": "https://www.oracle.com/mysql/what-is-mysql/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/mysql.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/mysql.png",
             "name": "MySQL"
           },
           {
             "source": "https://www.postgresql.org/about/",
-            "img": "https://portifolio-chi-two-19.vercel.app/imgs/stacks/postgresql.png",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/postgresql.png",
             "name": "PostgreSQL"
           }
         ]
