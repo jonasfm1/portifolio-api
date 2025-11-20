@@ -98,7 +98,24 @@
         "id": "Web-3",
         "role": "Web Developer",
         "imagen": "https://portifolio-chi-two-19.vercel.app/imgs/fullstackIcon.png",
-        "content": "Professional development of interfaces, business rules and relational databases."
+        "content": "Professional development of interfaces, business rules and relational databases.",
+        "dev_role": [
+          {
+            "source": "https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/figma.png",
+            "name": "FIGMA"
+          },
+          {
+            "source": "https://www.atlassian.com/agile/scrum",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/scrum-sprint.png",
+            "name": "SCRUM"
+          },
+          {
+            "source": "https://trello.com/tour",
+            "img": "https://portifolio-chi-two-19.vercel.app/imgs/trello.png",
+            "name": "TRELLO"
+          }
+        ]
       }
     ],
     "Testimonial": [
