@@ -1,28 +1,34 @@
 {
   "companies":[
     {
+      "Name": "Carrion, Do Carmo & CO",
+      "Year": "2025 - 2025",
+      "Image": "https://portifolio-chi-two-19.vercel.app/imgs/logo_perfectpay.png",
+      "Activities": "full service accounting firm working with small to mid-sized businesses. The activities involved were LAN maintenance, VPN installation and configuration, and troubleshooting faulty software."
+    },
+    {
       "Name": "PerfectPay",
       "Year": "2021 - 2023",
       "Image": "https://portifolio-chi-two-19.vercel.app/imgs/logo_perfectpay.png",
-      "Activities": "1 year as Front-end software engineer working with HTML, CSS, Vue.js and Bootstrap. At perfect pay, together with a team of new developers, we worked on the development of a new platform launched on the market in 2023 in the adult entertainment sector in Brazil, MyFanVip is currently operating, it was a project that challenged my skills in a timely manner delivery and Front-end knowledge."
+      "Activities": "E-commerce startup, a marketing platform for digital products, my activities involved were Ensure cross-browser compatibility, Identified and fixed bugs, also I worked to build a new adult website, myfanvip."
     },
     {
       "Name": "CloudFox",
       "Year": "2021 - 2023",
       "Image": "https://portifolio-chi-two-19.vercel.app/imgs/logo_cloudfox.png",
-      "Activities": "2 Years as a Front-end software engineer working with HTML, CSS, JavaScript, Bootstrap, library jQuery and Framework Laravel. Being part of the best team I have ever worked with, we greatly improved the system with solid technologies on the market such as PHP-Laravel, and also jQuery, with KABAN methodology and a highly dynamic team."
+      "Activities": "e-commerce platform that intermediates payments for online stores, aiming to make online shopping safer since 2019."
     },
     {
       "Name": "Digital Banks",
       "Year": "2020-2021",
       "Image": "https://portifolio-chi-two-19.vercel.app/imgs/logo_digital_banks.png",
-      "Activities": "4 Months as a Back-end software engineer working with django a framework Python. In union with my teammates, we developed simple functionalities for the evolution of the system, working with the SCRUM methodology we had the opportunity to develop with Pyhton and a new methodology, as well as code review in a dynamic and professional environment in the financial sector."
+      "Activities": "Financial Services, Developing solutions and integrations for cryptocurrencies, financial services, and payment systems."
     },
     {
       "Name": "Cadd Design",
       "Year": "2018 - 2020",
       "Image": "https://portifolio-chi-two-19.vercel.app/imgs/logo_cadd.png",
-      "Activities": "2 years as a Full-stack software engineer, working with HTML, CSS, JavaScript, Bootstrap at Front-end stacks and PHP with MySQL at Back-end Stack, Together with the director and in accordance with various meetings held with the most diverse companies, new features were added, errors were corrected, and design adjustments were made, increasingly creating a more customer-friendly environment."
+      "Activities": "Strategic solutions in geographic intelligence, selling products and providing geoprocessing services such as geomarketing, business intelligence, enrichment of digital maps and networks, and routing software."
     }
   ]
 }
