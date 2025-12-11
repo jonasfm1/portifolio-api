@@ -3,7 +3,7 @@
     {
       "School": "Udemy",
       "Year": "2025 - Actual \n New York - NY, USA",
-      "description": "Over 140 hours of content, over 745 lessons on topics related to the Python language (from basic to advanced) including bonus sections on regular expressions, SQL, Django, HTML and CSS. PySide6, Django, Selenium, Regexp, Tests, TDD, OOP, Design Patterns GoF, algorithms and programming.",
+      "description": "140 hours of topics related to the Python, bonus sections on regular expressions, SQL, Django, PySide6, Selenium, Regexp, Tests, TDD, OOP, Design Patterns GoF, algorithms and programming.",
       "source": "https://www.udemy.com/",
       "School_degree": "Certificate"
     },
@@ -17,22 +17,17 @@
     {
       "School": "Rocketseat",
       "Year": "2025 - Actual \n São Paulo - SP, Brasil",
-      "description": "A coding school to learn and improve the fundamentals of web programming HTML, CSS, Git, database, back-end and front-end. Specializing in React, React Native, Node.js Python and much more with tools and technologies aligned with the market.",
+      "description": "A coding school to learn and improve web programming HTML, CSS, Git, database, back-end and front-end. Specializing in React, React Native, Node.js and much more with tools and technologies.",
       "source": "https://www.rocketseat.com.br/",
       "School_degree": "IT Certificate"
     },
     {
       "School": "Anhembi Morumbi University",
       "Year": "2018 - 2023 \n São Paulo - SP, Brasil",
-      "description": "The Information Technology course focuses on data management and computer systems. This market is relatively new, but has many vacancies due to the adoption of automated processes, especially in large urban centers, companies and industrial hubs.",
+      "description": "Course focuses on data management and computer systems. This market is relatively new, but has many vacancies due to the adoption of automated processes, especially in large urban centers, companies and industrial hubs.",
       "source": "https://portal.anhembi.br/graduacao/gestao-da-tecnologia-da-informacao/",
       "School_degree": "Information Technology Management"
-    },
-    {
-      "School": "E.E.Francisco de Paula Conceição Junior Prof.",
-      "Year": "2003 - 2012 \n São Paulo - SP, Brazil",
-      "description": "Brazilian high school where classes in Portuguese, English, Mathematics, Science, Chemistry, Physics, History, Geography, Philosophy, Sociology, Arts are mandatory.",
-      "School_degree": "High school"
     }
+
   ]
 }
